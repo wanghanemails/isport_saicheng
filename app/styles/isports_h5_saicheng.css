@@ -19,12 +19,12 @@ li.each-saicheng{
 .each-container{
     width: 100%;
     height: 100%;
-    display: -webkit-flex;
-    display: flex;
+    /*display: -webkit-flex;*/
+    /*display: flex;*/
 
-    flex-wrap: nowrap;
-    -webkit-justify-content: space-between;
-    justify-content:space-between;
+    /*flex-wrap: nowrap;*/
+    /*-webkit-justify-content: space-between;*/
+    /*justify-content:space-between;*/
 
 }
 .each-saicheng .cont{
@@ -34,24 +34,28 @@ li.each-saicheng{
     width: 19.021%;
     /*flex: 1;*/
     height: 106px;
+    display: table-cell;
 }
 .each-saicheng .content-center{
     width: 38.33%;
     /*flex: 2;*/
     height: 106px;
+    display: table-cell;
+    vertical-align: top;
 }
 .each-saicheng .content-right{
     width: 19.021%;
     /*flex: 1;*/
     height: 106px;
+    display: table-cell;
 }
 .content-center .center-title{
-    display: -webkit-flex;
-    display: flex;
+    /*display: -webkit-flex;*/
+    /*display: flex;*/
 
-    flex-wrap: nowrap;
-    -webkit-justify-content: space-between;
-    justify-content:space-between;
+    /*flex-wrap: nowrap;*/
+    /*-webkit-justify-content: space-between;*/
+    /*justify-content:space-between;*/
 
 }
 .content-center .center-title span{
