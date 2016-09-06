@@ -19,11 +19,13 @@ li.each-saicheng{
 .each-container{
     width: 100%;
     height: 100%;
-    display: flex;
     display: -webkit-flex;
+    display: flex;
+
     flex-wrap: nowrap;
-    justify-content:space-between;
     -webkit-justify-content: space-between;
+    justify-content:space-between;
+
 }
 .each-saicheng .cont{
     display: inline-block;
@@ -44,11 +46,13 @@ li.each-saicheng{
     height: 106px;
 }
 .content-center .center-title{
-    display: flex;
     display: -webkit-flex;
+    display: flex;
+
     flex-wrap: nowrap;
-    justify-content:space-between;
     -webkit-justify-content: space-between;
+    justify-content:space-between;
+
 }
 .content-center .center-title span{
     font-size: 12px;
