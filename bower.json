@@ -1,0 +1,36 @@
+{
+  "name": "isports_h5_saicheng",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "dist/styles/isports_h5_jifen_main_a17721b2.min.css",
+    "dist/styles/isports_h5_jifen_main_a17721b2.css",
+    "dist/scripts/isports_h5_jifen_main_a17721b2.min.js",
+    "dist/scripts/isports_h5_jifen_main_a17721b2.js",
+    {
+      "pad": []
+    },
+    {
+      "mobile": []
+    },
+    {
+      "pc": []
+    }
+  ],
+  "originalMainFiles": [
+    "app/styles/isports_h5_saicheng.css",
+    "app/scripts/version.js",
+    "app/scripts/isports_h5_saicheng.js",
+    {
+      "pad": []
+    },
+    {
+      "mobile": []
+    },
+    {
+      "pc": []
+    }
+  ],
+  "version": "1.0.1"
+}
